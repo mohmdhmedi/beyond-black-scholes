@@ -8,6 +8,7 @@ butterfly, calendar) are tested both at mid prices and at the prices one could a
 raw SVI fit per expiry is used as the benchmark a gradient-boosted model has to beat, with the result
 reported whichever way it falls.
 
+- **Notebook in this repository:** [beyond-black-scholes.ipynb](beyond-black-scholes.ipynb)
 - **Notebook on Kaggle:** [kaggle.com/code/mohmdhmedi/beyond-black-scholes](https://www.kaggle.com/code/mohmdhmedi/beyond-black-scholes)
 - **Data:** [SPY Options EOD Data (2010-2023)](https://www.kaggle.com/datasets/dudesurfin/spy-options-eod-volatility-surface-2010-2023), 14 yearly parquet files, 596 MB, MIT licence
 
